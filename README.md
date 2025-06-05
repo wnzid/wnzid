@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm wnzid! 👋
 
-<!--
-**wnzid/wnzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Software Engineering Student at Vilnius University
+- Currently learning and building with:
+  - Python
+  - PHP
+  - C#
+  - Rust
+  - C
+- Always open to new challenges and opportunities to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “The journey of a thousand miles begins with a single step.” – Lao Tzu
