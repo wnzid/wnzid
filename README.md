@@ -5,10 +5,11 @@
 - Software Engineering Student at Vilnius University
 - Currently learning and building with:
   - Python
+  - Javascript
+  - Typescript
   - PHP
   - C#
   - Rust
-  - C
 - Always open to new challenges and opportunities to learn
 
 ---
