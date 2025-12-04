@@ -4,6 +4,7 @@
 
 - Software Engineering Student at Vilnius University
 - Currently learning and building with:
+  - Meteor
   - Python
   - Javascript
   - Typescript
