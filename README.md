@@ -19,6 +19,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wnzid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 
 > “The journey of a thousand miles begins with a single step.” – Lao Tzu
